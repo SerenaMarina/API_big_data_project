@@ -47,7 +47,7 @@ DELETE	/siret/<siret_id>	Delete a record by SIRET number.
 
 ## Testing
 
-- Postman was used to test all endpoints.
+Postman was used to test all endpoints.
 Example scenarios:
       - Retrieving valid and invalid SIRET records.
       - Adding new records with and without required fields.
